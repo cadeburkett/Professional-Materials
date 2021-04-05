@@ -9,10 +9,14 @@
   ## Table of Contents
   * [Description](#description)
   * [Usage](#usage)
+  * [License](#license)
   * [Questions](#questions)
 
   ## Usage
   View as is in browser
+
+  ## License
+  MIT License
 
   ## Questions
   For follow up questions email cadeburkett@gmail.com 
